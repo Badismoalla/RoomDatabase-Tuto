@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RoomDatabase Tuto</string>
+    <string name="add_data">Add Data</string>
+    <string name="read_data">Read Data</string>
+    <string name="delete_data">Delete Data</string>
+    <string name="update_data">Update Data</string>
+    <string name="id">ID</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="city">City</string>
+    <string name="save">Save</string>
+</resources>
